@@ -1,19 +1,7 @@
 {
-    "name": "rapidez/order-comments",
+    "name": "rapidez/boldcommerce-order-comments",
     "require": {
         "php": "^8.0.2"
-    },
-    "autoload": {
-        "psr-4": {
-            "Rapidez\\OrderComments\\": "src/"
-        }
-    },
-    "extra": {
-        "laravel": {
-            "providers": [
-                "Rapidez\\OrderComments\\OrderCommentsServiceProvider"
-            ]
-        }
     },
     "authors": [
         {
