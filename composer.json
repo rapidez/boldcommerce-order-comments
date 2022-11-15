@@ -1,0 +1,24 @@
+{
+    "name": "rapidez/order-comments",
+    "require": {
+        "php": "^8.0.2"
+    },
+    "autoload": {
+        "psr-4": {
+            "Rapidez\\OrderComments\\": "src/"
+        }
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Rapidez\\OrderComments\\OrderCommentsServiceProvider"
+            ]
+        }
+    },
+    "authors": [
+        {
+            "name": "Bob",
+            "email": "bob@justbetter.nl"
+        }
+    ]
+}
