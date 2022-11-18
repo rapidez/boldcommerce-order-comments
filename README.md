@@ -13,12 +13,7 @@ require('Vendor/rapidez/order-comments/resources/js/order-comments')
 
 Add the a textarea to your views in the checkout:
 ```
-<x-rapidez::textarea
-    v-model="checkout.comment"
-    class="border-border"
-    name="comment"
-    {{ $attributes }}
-/>
+<x-rapidez::textarea v-model="checkout.comment" name="comment" />
 ```
 
 To display the order comment, usually in the checkout, you can use:
