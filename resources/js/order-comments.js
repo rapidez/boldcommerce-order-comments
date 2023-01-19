@@ -1,4 +1,4 @@
-document.addEventListener('turbolinks:load', () => {
+document.addEventListener('turbo:load', () => {
     Vue.set(window.app.checkout, 'comment', '')
 
     window.app.$on('checkout-credentials-saved', (e) => {
