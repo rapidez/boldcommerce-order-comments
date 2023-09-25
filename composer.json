@@ -1,8 +1,8 @@
 {
     "name": "rapidez/boldcommerce-order-comments",
     "require": {
-        "php": "^8.0.2",
-        "rapidez/core": "~0.77"
+        "php": "^8.0|^8.1",
+        "rapidez/core": "~0.77|^1.0"
     },
     "authors": [
         {
