@@ -1,19 +1,25 @@
 # Changelog 
 
-[Unreleased changes](https://github.com/rapidez/boldcommerce-order-comments/compare/0.3.0...master)
+[Unreleased changes](https://github.com/rapidez/boldcommerce-order-comments/compare/0.3.1...master)
+## [0.3.1](https://github.com/rapidez/boldcommerce-order-comments/releases/tag/0.3.1) - 2023-09-25
+
+### Added
+
+- Rapidez 1.x support (941dad1)
+
 ## [0.3.0](https://github.com/rapidez/boldcommerce-order-comments/releases/tag/0.3.0) - 2023-04-05
 
-#### Added
+### Added
 
 - Add package.js, ensure dependency on Vue is satisfied (#3)
 
 ## [0.2.0](https://github.com/rapidez/boldcommerce-order-comments/releases/tag/0.2.0) - 2023-01-19
 
-#### Added
+### Added
 
 - Add changelog action (28fb997)
 
-#### Changed
+### Changed
 
 - Replace turbolinks with turbo (#2)
 
