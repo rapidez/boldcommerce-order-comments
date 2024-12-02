@@ -1,6 +1,6 @@
 import 'Vendor/rapidez/core/resources/js/app'
 
-document.addEventListener('turbo:load', () => {
+document.addEventListener('vue:loaded', () => {
     Vue.set(window.app.checkout, 'comment', '')
 
     window.app.$on('checkout-credentials-saved', (e) => {
