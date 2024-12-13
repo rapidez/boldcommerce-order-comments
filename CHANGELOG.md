@@ -1,6 +1,12 @@
 # Changelog 
 
-[Unreleased changes](https://github.com/rapidez/boldcommerce-order-comments/compare/0.4.1...master)
+[Unreleased changes](https://github.com/rapidez/boldcommerce-order-comments/compare/3.0.0...master)
+## [3.0.0](https://github.com/rapidez/boldcommerce-order-comments/releases/tag/3.0.0) - 2024-12-13
+
+### Added
+
+- Rapidez v3 support (#5)
+
 ## [0.4.1](https://github.com/rapidez/boldcommerce-order-comments/releases/tag/0.4.1) - 2024-12-03
 
 ### Fixed
